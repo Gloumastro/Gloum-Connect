@@ -1,15 +1,11 @@
 import './App.css';
-import FirstNav from './Blog/Navigation/FirstNav';
-import SecondNav from './Blog/Navigation/SecondNav';
-import Hero from './Blog/Hero-Section/Hero';
+import AstrovedMembership from './Blog/Monthly_Specials/AstrovedMembership';
 
 function App() {
   return (
-   <>
-   <FirstNav/>
-   <SecondNav/>
-   <Hero/>
-   </>
+    <>
+      <AstrovedMembership />
+    </>
   );
 }
 
