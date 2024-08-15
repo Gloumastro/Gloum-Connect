@@ -161,6 +161,8 @@ const AstrovedMembership = () => {
                         width: { xs: '90%', sm: '85%', md: '80%' },
                         margin: 'auto',
                         marginTop: '1rem',
+
+                        
                     }}
                 >
                     We have enhanced our AstroVed Loyalty Program to provide more benefits for you- cashback offers, and complimentary services, as well as sharing the blessings of AstroVed Vedic technology services with your loved ones, discount coupon value equivalent to membership fees amount, and complimentary astrology readings.
